@@ -17,6 +17,5 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/www.linkedin.com/in/uyathandwa-ngomana)
-
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/uyathandwa-ngomana)
 [![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/uyathandwa-ngomana))
