@@ -15,8 +15,8 @@
 ## Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Let's Connect 👇
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uyathandwa%20Ngomana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyathandwa-ngomana)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/www.linkedin.com/in/uyathandwa-ngomana)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Uyathandwa%20Ngomana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uyathandwa-ngomana)
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/uyathandwa-ngomana))
